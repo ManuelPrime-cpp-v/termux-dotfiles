@@ -1,0 +1,28 @@
+{
+	  "$schema": "https://github.com",
+	    "logo": {
+	    	    "type": "small",
+	    	        "position": "top"
+	    	          },
+	    	            "modules": [
+	    	            	    "title",
+	    	            	        "separator",
+	    	            	            "os",
+	    	            	                "kernel",
+	    	            	                    "uptime",
+	    	            	                        "packages",
+	    	            	                            "shell",
+	    	            	                                "terminal",
+	    	            	                                    "cpu",
+	    	            	                                        "memory",
+	    	            	                                            "disk",
+	    	            	                                                "battery",
+	    	            	                                                    "break",
+	    	            	                                                        "colors"
+	    	            	                                                          ]
+	    	            	                                                          }
+
+	    	            	                                                       
+	    	            ]
+	    }
+}
