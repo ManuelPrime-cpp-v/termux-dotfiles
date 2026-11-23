@@ -338,6 +338,7 @@ micro
 ministream
 nala
 nano
+ncdu
 ncurses
 ncurses-ui-libs
 ncurses-utils
